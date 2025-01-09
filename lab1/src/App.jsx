@@ -31,7 +31,7 @@ function App() {
             Say hello to <br /> ReactJS
           </h1>
           <p>
-            You will learn how to use the most popular frontend library, and
+            You will learn how to use <br /> the most popular frontend library, <br /> and
             become a super Ninja developer.
           </p>
           <button>Awesome!</button>
